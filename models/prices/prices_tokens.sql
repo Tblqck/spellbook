@@ -1714,7 +1714,7 @@ VALUES
     ("duck-dlp-duck-token", "optimism", "DUCK", "0x0e49ca6ea763190084c846d3fc18f28bc2ac689a", 18),
     ("eqz-equalizer", "optimism", "EQZ", "0x81ab7e0d570b01411fcc4afd3d50ec8c241cb74b", 18),
     ("gysr-geyser", "optimism", "GYSR", "0x117cfd9060525452db4a34d51c0b3b7599087f05", 18),
-    ("han-hanchain", "optimism", "HAN", "0x50bce64397c75488465253c0a034b8097fea6578", 18),
+    ("han-hanchain", "optimism", "HAN", "0x50bce64397c75488465253c0a034b8097fea,6578", 18),
     -- ("hnd-hundred-finance", "optimism", "HND", "0x10010078a54396f62c96df8532dc2b4847d47ed3", 18),
     ("spell-spell-token", "optimism", "SPELL", "0xe3ab61371ecc88534c522922a026f2296116c109", 18),
     ("suku-suku", "optimism", "SUKU", "0xef6301da234fc7b0545c6e877d3359fe0b9e50a4", 18),
@@ -1737,6 +1737,7 @@ VALUES
     ("mimatic-mimatic", "polygon", "MIMATIC", "0xa3fa99a148fa48d14ed51d610c367c61876997f1", 18),
     ("bob-bob", "polygon", "BOB", "0xb0b195aefa3650a6908f15cdac7d92f8a5791b0b", 18),
     ("stmatic-lido-staked-matic","polygon","STMATIC","0x3a58a54c066fdc0f2d55fc9c89f0415c92ebf3c4",18),
+    ("richochet","polygon","RIC", "0x263026e7e53dbfdce5ae55ade22493f828922965, 18),
 
     ("aury-aurory", "solana", "AURY", "AURYydfxJib1ZkTir1Jn1J9ECYUtjb6rKQVmtYaixWPP", 9),
     ("btc-bitcoin", "solana", "BTC", "9n4nbM75f5Ui33ZbPYXn59EwSgE8CGsHtAeTH5YFeJ9E", 6),
